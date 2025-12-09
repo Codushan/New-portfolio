@@ -158,7 +158,7 @@ export default function Contact() {
                             name="user_name"
                             required
                             className="w-full px-4 py-3 rounded-xl bg-background/50 border border-white/10 focus:border-primary focus:ring-2 focus:ring-primary/20 outline-none transition-all"
-                            placeholder="John Doe"
+                            placeholder="Name"
                         />
                     </div>
                     <div>
@@ -168,7 +168,7 @@ export default function Contact() {
                             name="user_email"
                             required
                             className="w-full px-4 py-3 rounded-xl bg-background/50 border border-white/10 focus:border-primary focus:ring-2 focus:ring-primary/20 outline-none transition-all"
-                            placeholder="john@example.com"
+                            placeholder="name@example.com"
                         />
                     </div>
                     <div>

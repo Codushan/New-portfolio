@@ -98,7 +98,7 @@ export default function Hero() {
                 <div className="flex gap-6 justify-center mt-12">
                     <motion.a
                         whileHover={{ y: -5 }}
-                        href="https://github.com"
+                        href="https://github.com/Codushan"
                         target="_blank"
                         className="p-3 glass rounded-full hover:text-primary transition-colors"
                     >
@@ -106,7 +106,7 @@ export default function Hero() {
                     </motion.a>
                     <motion.a
                         whileHover={{ y: -5 }}
-                        href="https://linkedin.com"
+                        href="https://www.linkedin.com/in/chandrabhushan3"
                         target="_blank"
                         className="p-3 glass rounded-full hover:text-primary transition-colors"
                     >

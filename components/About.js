@@ -8,7 +8,7 @@ const educationData = [
         year: "Nov 2022 - Present",
         title: "B.Tech in Civil Engineering",
         institution: "National Institute of Technology, Calicut",
-        description: "CGPA: 7.90/10. Active member of CEA, DND, and SGC clubs.",
+        description: "CGPA: 7.97/10. Active member of CEA, DND, and SGC clubs.",
     },
     {
         year: "2021",
